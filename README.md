@@ -1,0 +1,2 @@
+# Begynn
+Trening  GitHub
